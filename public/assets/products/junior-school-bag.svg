@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <defs>
+    <linearGradient id="bgp-junior-school-bag" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#F6F5F1"/>
+    </linearGradient>
+    <linearGradient id="g-2E5C8A" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2E5C8A"/><stop offset="1" stop-color="#012f5d"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#bgp-junior-school-bag)"/>
+  <ellipse cx="200" cy="262" rx="120" ry="10" fill="#000" opacity=".08"/>
+  
+        <path d="M172 84 Q200 42 228 84" fill="none" stroke="#012f5d" stroke-width="9" stroke-linecap="round"/>
+        <rect x="138" y="70" width="124" height="200" rx="40" fill="url(#g-2E5C8A)"/>
+        <rect x="138" y="128" width="124" height="16" fill="#D5A34E"/>
+        <rect x="150" y="186" width="100" height="62" rx="12" fill="#012f5d" opacity=".3"/>
+        <path d="M150 190 L150 240 M250 190 L250 240" stroke="#012f5d" stroke-width="3" opacity=".3"/>
+  <text x="200" y="292" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#8A8F96" letter-spacing="2">PLACEHOLDER IMAGE</text>
+</svg>

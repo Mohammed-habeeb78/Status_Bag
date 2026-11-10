@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#DDE6EE"/><stop offset="1" stop-color="#F6F5F1"/></linearGradient>
+  </defs>
+  <rect width="800" height="560" fill="url(#sky)"/>
+  <rect y="430" width="800" height="130" fill="#C9D3C4"/>
+  <rect x="120" y="230" width="560" height="200" fill="#8FA3B8"/>
+  <rect x="120" y="230" width="560" height="14" fill="#5C7189"/>
+  <rect x="150" y="270" width="40" height="60" fill="#E9F0F6" opacity=".9"/><rect x="216" y="270" width="40" height="60" fill="#E9F0F6" opacity=".9"/><rect x="282" y="270" width="40" height="60" fill="#E9F0F6" opacity=".9"/><rect x="348" y="270" width="40" height="60" fill="#E9F0F6" opacity=".9"/><rect x="414" y="270" width="40" height="60" fill="#E9F0F6" opacity=".9"/><rect x="480" y="270" width="40" height="60" fill="#E9F0F6" opacity=".9"/><rect x="546" y="270" width="40" height="60" fill="#E9F0F6" opacity=".9"/><rect x="612" y="270" width="40" height="60" fill="#E9F0F6" opacity=".9"/>
+  <rect x="150" y="350" width="40" height="60" fill="#E9F0F6" opacity=".9"/><rect x="216" y="350" width="40" height="60" fill="#E9F0F6" opacity=".9"/><rect x="282" y="350" width="40" height="60" fill="#E9F0F6" opacity=".9"/><rect x="348" y="350" width="40" height="60" fill="#E9F0F6" opacity=".9"/><rect x="414" y="350" width="40" height="60" fill="#E9F0F6" opacity=".9"/><rect x="480" y="350" width="40" height="60" fill="#E9F0F6" opacity=".9"/><rect x="546" y="350" width="40" height="60" fill="#E9F0F6" opacity=".9"/><rect x="612" y="350" width="40" height="60" fill="#E9F0F6" opacity=".9"/>
+  <rect x="360" y="366" width="80" height="64" fill="#142B45"/>
+  <circle cx="110" cy="410" r="36" fill="#5E8C5A"/><circle cx="700" cy="410" r="36" fill="#5E8C5A"/>
+  <rect x="106" y="430" width="8" height="40" fill="#6B5A44"/><rect x="696" y="430" width="8" height="40" fill="#6B5A44"/>
+  <text x="400" y="200" font-family="Arial, sans-serif" font-size="30" font-weight="800" fill="#FFFFFF" text-anchor="middle" letter-spacing="3">STATUS BAG INDUSTRIES</text>
+  <text x="400" y="530" font-family="Arial, sans-serif" font-size="14" fill="#20252B" text-anchor="middle" letter-spacing="3">PLACEHOLDER — REPLACE WITH FACILITY PHOTO</text>
+</svg>

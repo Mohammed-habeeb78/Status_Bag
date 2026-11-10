@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="hbg-2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#142B45"/><stop offset="1" stop-color="#071A2B"/>
+    </linearGradient>
+    <linearGradient id="g-8A94A3" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8A94A3"/><stop offset="1" stop-color="#5d6776"/></linearGradient><linearGradient id="g-7A5136" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7A5136"/><stop offset="1" stop-color="#4d2409"/></linearGradient><linearGradient id="g-2E5C8A" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2E5C8A"/><stop offset="1" stop-color="#012f5d"/></linearGradient>
+  </defs>
+  <rect width="1200" height="600" fill="url(#hbg-2)"/>
+  <ellipse cx="600" cy="520" rx="420" ry="22" fill="#000" opacity=".3"/>
+  <g transform="translate(180 110) scale(1.15)">
+        <path d="M170 92 Q200 48 230 92" fill="none" stroke="#5d6776" stroke-width="10" stroke-linecap="round"/>
+        <rect x="132" y="82" width="136" height="180" rx="44" fill="url(#g-8A94A3)"/>
+        <rect x="150" y="164" width="100" height="76" rx="14" fill="#5d6776" opacity=".35"/>
+        <line x1="150" y1="176" x2="250" y2="176" stroke="#5d6776" stroke-width="3" opacity=".5"/>
+        <rect x="186" y="108" width="28" height="10" rx="4" fill="#D5A34E"/></g>
+<g transform="translate(520 150) scale(1.05)">
+        <line x1="256" y1="92" x2="256" y2="36" stroke="#4d2409" stroke-width="7" stroke-linecap="round"/>
+        <path d="M256 36 L276 36" stroke="#4d2409" stroke-width="7" stroke-linecap="round"/>
+        <rect x="112" y="74" width="176" height="176" rx="16" fill="url(#g-7A5136)"/>
+        <line x1="112" y1="120" x2="288" y2="120" stroke="#4d2409" stroke-width="3" opacity=".4"/>
+        <rect x="150" y="136" width="100" height="36" rx="6" fill="#4d2409" opacity=".25"/>
+        <circle cx="146" cy="256" r="12" fill="#4d2409"/>
+        <circle cx="254" cy="256" r="12" fill="#4d2409"/></g>
+<g transform="translate(860 190) scale(0.85)">
+        <path d="M172 84 Q200 42 228 84" fill="none" stroke="#012f5d" stroke-width="9" stroke-linecap="round"/>
+        <rect x="138" y="70" width="124" height="200" rx="40" fill="url(#g-2E5C8A)"/>
+        <rect x="138" y="128" width="124" height="16" fill="#D5A34E"/>
+        <rect x="150" y="186" width="100" height="62" rx="12" fill="#012f5d" opacity=".3"/>
+        <path d="M150 190 L150 240 M250 190 L250 240" stroke="#012f5d" stroke-width="3" opacity=".3"/></g>
+  <text x="1170" y="585" font-family="Arial, sans-serif" font-size="14" text-anchor="end" fill="#D5A34E" opacity=".8" letter-spacing="3">PLACEHOLDER HERO IMAGE</text>
+</svg>
